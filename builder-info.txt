@@ -1,0 +1,7 @@
+SITE_ID=site-01
+DESIGN_ID=design-01
+DESIGN_NAME=비교형
+SITE_NAME=하늘
+DOMAIN=
+PHONE=
+REGIONS=seoul
